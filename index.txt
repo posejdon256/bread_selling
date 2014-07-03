@@ -1,1 +1,3 @@
-#it's code to pretend that I'm writing some block of a code in here
+#it's code to 
+Here was the bug, I had to change it
+pretend that I'm writing some block of a code in here
